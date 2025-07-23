@@ -1,3 +1,9 @@
-const { REACT_LOADABLE_MANIFEST } = require("next/dist/shared/lib/constants");
+import React from 'react'
 
-REACT_LOADABLE_MANIFEST
+const page = () => {
+  return (
+    <div> Hello kaise ho aap </div>
+  );
+} ;
+
+export default page;
