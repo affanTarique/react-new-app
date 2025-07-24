@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div> Hello kaise ho aap </div>
     <div> Affan khan </div>
-    <div> hiii all  taimoor </div>
+    <div> hiii all  taimoor shamu </div>
   );
 } ;
 
