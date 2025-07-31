@@ -6,6 +6,7 @@ const page = () => {
     {
       marks = 40
       console.log(marks)
+    }
     
     
   return (
