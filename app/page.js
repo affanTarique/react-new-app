@@ -3,6 +3,8 @@ import React from 'react'
 const page = () => {
   let marks = 79
   const changeMarks = () =>
+    {
+    
   return (
     <>
     <h1 className = 'font-bold text-xl'> My total marks were {marks} </h1>
