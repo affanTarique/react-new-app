@@ -5,6 +5,7 @@ const page = () => {
   const changeMarks = () =>
     {
       marks = 40
+      console
     
   return (
     <>
