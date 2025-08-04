@@ -7,6 +7,12 @@ const page2 = () => {
     return (
         <>
         <h1> My marks were {marks} </h1>
+        <button onClick= {() => {
+            setMarks(50);
+
+        }
+        </>
+
       
     )
 }
