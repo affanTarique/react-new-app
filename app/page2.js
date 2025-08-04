@@ -16,5 +16,6 @@ const page2 = () => {
 
       
     )
-    
+
 }
+export default 
